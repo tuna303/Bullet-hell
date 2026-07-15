@@ -1,4 +1,0 @@
-repository "set up/Bullet hell@18968322753643@cloud"
-  path "/"
-    br "/main"
-    co "/main"
