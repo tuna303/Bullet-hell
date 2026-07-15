@@ -1,0 +1,68 @@
+Child Of Gun Art Kit
+By Buffpixelstudio.
+---------------------------
+
+---------------------------
+Contents:
+---------Weapons-----------
+Pistol
+Shotgun
+Sniper
+Bazooka
+
+---------Bullets-----------
+Pistol Bullet
+Shotgun Bullet
+Sniper Bullet
+Bazooka Bullet
+
+-------Character Animations-
+Idle
+Run
+Jump
+Hit
+Dead
+
+--------Player Variants-----
+Spartan
+Ninja
+Samurai
+
+--------Enemy Variants------
+Orc
+Ghost
+Slime
+
+--------------UI------------
+Buttons
+Emojis
+Cursor
+Banner
+Background Border
+
+---------Collectable--------
+Coin
+Chest
+Health
+
+---------Destructable-------
+Barrels
+
+-----------Traps------------
+Spike
+
+------Foreground Elements---
+Banners
+Keys
+Skulls
+Bones
+Candle Holder
+Light
+
+------------Tiles-----------
+Walls Left/Rigth/Up/Down
+Grass Ground Tiles
+Brick Ground Tiles
+Rocks
+Mushrooms
+Grass

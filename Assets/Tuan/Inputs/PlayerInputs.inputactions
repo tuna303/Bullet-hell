@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "PlayerInputs",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "580c9e4e-4c9f-4be1-9d16-a689bb4e6ecb",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "f0e8904c-a6fa-4797-b011-b510b69eb49f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a9643147-717a-4a3f-ac93-503fce999af5",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

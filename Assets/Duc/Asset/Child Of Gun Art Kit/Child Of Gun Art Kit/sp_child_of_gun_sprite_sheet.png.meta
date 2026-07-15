@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 1b9b47e060d9adb42aa567adcaa192b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3931232517293172033
+    second: sp_child_of_gun_sprite_sheet_0
+  - first:
+      213: 2499979153532280975
+    second: sp_child_of_gun_sprite_sheet_1
+  - first:
+      213: -2032808152134585763
+    second: sp_child_of_gun_sprite_sheet_2
+  - first:
+      213: -5460622553596230155
+    second: sp_child_of_gun_sprite_sheet_3
+  - first:
+      213: 6026749534895036887
+    second: sp_child_of_gun_sprite_sheet_4
+  - first:
+      213: 2971380435803099121
+    second: sp_child_of_gun_sprite_sheet_5
+  - first:
+      213: -6803746221307229657
+    second: sp_child_of_gun_sprite_sheet_6
+  - first:
+      213: 8528183948392278352
+    second: sp_child_of_gun_sprite_sheet_7
+  - first:
+      213: 3288622616695584109
+    second: sp_child_of_gun_sprite_sheet_8
+  - first:
+      213: -1030210210639602211
+    second: sp_child_of_gun_sprite_sheet_9
+  - first:
+      213: -9048558666693959967
+    second: sp_child_of_gun_sprite_sheet_10
+  - first:
+      213: -4110374124225896203
+    second: sp_child_of_gun_sprite_sheet_11
+  - first:
+      213: -5811227598782252638
+    second: sp_child_of_gun_sprite_sheet_12
+  - first:
+      213: -5308046797878109791
+    second: sp_child_of_gun_sprite_sheet_13
+  - first:
+      213: -5066286717974798211
+    second: sp_child_of_gun_sprite_sheet_14
+  - first:
+      213: 5702661632710783514
+    second: sp_child_of_gun_sprite_sheet_15
+  - first:
+      213: -5991676561247603410
+    second: sp_child_of_gun_sprite_sheet_16
+  - first:
+      213: 6502193887825835378
+    second: sp_child_of_gun_sprite_sheet_17
+  - first:
+      213: -6833472168378775255
+    second: sp_child_of_gun_sprite_sheet_18
+  - first:
+      213: 153483931520961688
+    second: sp_child_of_gun_sprite_sheet_19
+  - first:
+      213: -6874306424583707664
+    second: sp_child_of_gun_sprite_sheet_20
+  - first:
+      213: 6269620947350482226
+    second: sp_child_of_gun_sprite_sheet_21
+  - first:
+      213: 5410993465682682277
+    second: sp_child_of_gun_sprite_sheet_22
+  - first:
+      213: 1220821084720284494
+    second: sp_child_of_gun_sprite_sheet_23
+  - first:
+      213: -4724621274756945409
+    second: sp_child_of_gun_sprite_sheet_24
+  - first:
+      213: -2494102473263987602
+    second: sp_child_of_gun_sprite_sheet_25
+  - first:
+      213: 7712564413115111901
+    second: sp_child_of_gun_sprite_sheet_26
+  - first:
+      213: 3542497220620803193
+    second: sp_child_of_gun_sprite_sheet_27
+  - first:
+      213: 2510701154903543356
+    second: sp_child_of_gun_sprite_sheet_28
+  - first:
+      213: -2900732033797595168
+    second: sp_child_of_gun_sprite_sheet_29
+  - first:
+      213: 4853100771596700365
+    second: sp_child_of_gun_sprite_sheet_30
+  - first:
+      213: -5099214248736268723
+    second: sp_child_of_gun_sprite_sheet_31
+  - first:
+      213: -2386914104230776179
+    second: sp_child_of_gun_sprite_sheet_32
+  - first:
+      213: 1570353819429946983
+    second: sp_child_of_gun_sprite_sheet_33
+  - first:
+      213: 3243795513350469414
+    second: sp_child_of_gun_sprite_sheet_34
+  - first:
+      213: 285869998992888768
+    second: sp_child_of_gun_sprite_sheet_35
+  - first:
+      213: -7522783234758446198
+    second: sp_child_of_gun_sprite_sheet_36
+  - first:
+      213: -2578367241106849958
+    second: sp_child_of_gun_sprite_sheet_37
+  - first:
+      213: -3813850154838077340
+    second: sp_child_of_gun_sprite_sheet_38
+  - first:
+      213: -3049825150864873444
+    second: sp_child_of_gun_sprite_sheet_39
+  - first:
+      213: -5173749632273276889
+    second: sp_child_of_gun_sprite_sheet_40
+  - first:
+      213: 5973979732316195024
+    second: sp_child_of_gun_sprite_sheet_41
+  - first:
+      213: -8794602717127745660
+    second: sp_child_of_gun_sprite_sheet_42
+  - first:
+      213: 8321945504377443034
+    second: sp_child_of_gun_sprite_sheet_43
+  - first:
+      213: 5903031019364424448
+    second: sp_child_of_gun_sprite_sheet_44
+  - first:
+      213: 4876153928660165852
+    second: sp_child_of_gun_sprite_sheet_45
+  - first:
+      213: -40188178434452639
+    second: sp_child_of_gun_sprite_sheet_46
+  - first:
+      213: 4650330081788017613
+    second: sp_child_of_gun_sprite_sheet_47
+  - first:
+      213: 1229511654666067711
+    second: sp_child_of_gun_sprite_sheet_48
+  - first:
+      213: 3876973880147238552
+    second: sp_child_of_gun_sprite_sheet_49
+  - first:
+      213: 5666394484285825392
+    second: sp_child_of_gun_sprite_sheet_50
+  - first:
+      213: -3778905278319342413
+    second: sp_child_of_gun_sprite_sheet_51
+  - first:
+      213: 6608137889314069
+    second: sp_child_of_gun_sprite_sheet_52
+  - first:
+      213: -4156649961541775926
+    second: sp_child_of_gun_sprite_sheet_53
+  - first:
+      213: -652468364636243187
+    second: sp_child_of_gun_sprite_sheet_54
+  - first:
+      213: 8509412999995647823
+    second: sp_child_of_gun_sprite_sheet_55
+  - first:
+      213: -9084176627420301295
+    second: sp_child_of_gun_sprite_sheet_56
+  - first:
+      213: 7008786592020259813
+    second: sp_child_of_gun_sprite_sheet_57
+  - first:
+      213: -2549746132924986327
+    second: sp_child_of_gun_sprite_sheet_58
+  - first:
+      213: 3948125975468136865
+    second: sp_child_of_gun_sprite_sheet_59
+  - first:
+      213: 1265888681070712323
+    second: sp_child_of_gun_sprite_sheet_60
+  - first:
+      213: 7144880593539854082
+    second: sp_child_of_gun_sprite_sheet_61
+  - first:
+      213: -5889642216342601557
+    second: sp_child_of_gun_sprite_sheet_62
+  - first:
+      213: -6684386698586668331
+    second: sp_child_of_gun_sprite_sheet_63
+  - first:
+      213: -1879652263457159230
+    second: sp_child_of_gun_sprite_sheet_64
+  - first:
+      213: 1660948452114310353
+    second: sp_child_of_gun_sprite_sheet_65
+  - first:
+      213: 6437495643358585917
+    second: sp_child_of_gun_sprite_sheet_66
+  - first:
+      213: -5158946078305153125
+    second: sp_child_of_gun_sprite_sheet_67
+  - first:
+      213: 7357414550193932792
+    second: sp_child_of_gun_sprite_sheet_68
+  - first:
+      213: 2083106092253429216
+    second: sp_child_of_gun_sprite_sheet_69
+  - first:
+      213: -1344920086951487649
+    second: sp_child_of_gun_sprite_sheet_70
+  - first:
+      213: 6642153240270284872
+    second: sp_child_of_gun_sprite_sheet_71
+  - first:
+      213: 7000922536213942549
+    second: sp_child_of_gun_sprite_sheet_72
+  - first:
+      213: 1290007939129374275
+    second: sp_child_of_gun_sprite_sheet_73
+  - first:
+      213: 2443100556128671186
+    second: sp_child_of_gun_sprite_sheet_74
+  - first:
+      213: -4527507356357089029
+    second: sp_child_of_gun_sprite_sheet_75
+  - first:
+      213: 6010750054905906721
+    second: sp_child_of_gun_sprite_sheet_76
+  - first:
+      213: -424964052502867294
+    second: sp_child_of_gun_sprite_sheet_77
+  - first:
+      213: -4519704309594647941
+    second: sp_child_of_gun_sprite_sheet_78
+  - first:
+      213: 6585929126082278244
+    second: sp_child_of_gun_sprite_sheet_79
+  - first:
+      213: -127418064861659452
+    second: sp_child_of_gun_sprite_sheet_80
+  - first:
+      213: -6452507214774254417
+    second: sp_child_of_gun_sprite_sheet_81
+  - first:
+      213: -8687460685718143780
+    second: sp_child_of_gun_sprite_sheet_82
+  - first:
+      213: -6897588103554602637
+    second: sp_child_of_gun_sprite_sheet_83
+  - first:
+      213: -5375383512126052271
+    second: sp_child_of_gun_sprite_sheet_84
+  - first:
+      213: 3298217324891822170
+    second: sp_child_of_gun_sprite_sheet_85
+  - first:
+      213: 3488292339967079377
+    second: sp_child_of_gun_sprite_sheet_86
+  - first:
+      213: -4186231545403507650
+    second: sp_child_of_gun_sprite_sheet_87
+  - first:
+      213: -1740430704604505552
+    second: sp_child_of_gun_sprite_sheet_88
+  - first:
+      213: 6070994266032199239
+    second: sp_child_of_gun_sprite_sheet_89
+  - first:
+      213: 5666811101603997276
+    second: sp_child_of_gun_sprite_sheet_90
+  - first:
+      213: 7582028088155919688
+    second: sp_child_of_gun_sprite_sheet_91
+  - first:
+      213: 7171323041753785048
+    second: sp_child_of_gun_sprite_sheet_92
+  - first:
+      213: -7811351035537902717
+    second: sp_child_of_gun_sprite_sheet_93
+  - first:
+      213: -5777342636633779926
+    second: sp_child_of_gun_sprite_sheet_94
+  - first:
+      213: -2948808759588932409
+    second: sp_child_of_gun_sprite_sheet_95
+  - first:
+      213: 8173776535313365130
+    second: sp_child_of_gun_sprite_sheet_96
+  - first:
+      213: 455425975562310276
+    second: sp_child_of_gun_sprite_sheet_97
+  - first:
+      213: -561285790231751345
+    second: sp_child_of_gun_sprite_sheet_98
+  - first:
+      213: 3025005689772237827
+    second: sp_child_of_gun_sprite_sheet_99
+  - first:
+      213: -1908708205583668935
+    second: sp_child_of_gun_sprite_sheet_100
+  - first:
+      213: 2652441933083561270
+    second: sp_child_of_gun_sprite_sheet_101
+  - first:
+      213: -2886419573218902263
+    second: sp_child_of_gun_sprite_sheet_102
+  - first:
+      213: 3134097408161445653
+    second: sp_child_of_gun_sprite_sheet_103
+  - first:
+      213: 7320080265382028486
+    second: sp_child_of_gun_sprite_sheet_104
+  - first:
+      213: -385455155888744044
+    second: sp_child_of_gun_sprite_sheet_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 177
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14569ba552b8e8630800000000000000
+      internalID: 3931232517293172033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806c207bc5b1b220800000000000000
+      internalID: 2499979153532280975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 225
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ff7381c30ac3e0800000000000000
+      internalID: -2032808152134585763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5096818b8f734b0800000000000000
+      internalID: -5460622553596230155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d95ba955c053a350800000000000000
+      internalID: 6026749534895036887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc69863c67c3920800000000000000
+      internalID: 2971380435803099121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 288
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a83190cdc3491a0800000000000000
+      internalID: -6803746221307229657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 289
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0592c17ed123a5670800000000000000
+      internalID: 8528183948392278352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 288
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b47498d883ad20800000000000000
+      internalID: 3288622616695584109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd98de8545f3b1f0800000000000000
+      internalID: -1030210210639602211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 275
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9c6e75df0d6280800000000000000
+      internalID: -9048558666693959967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 288
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ee8ff28405f6c0800000000000000
+      internalID: -4110374124225896203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 277
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a933a1c94f5a5fa0800000000000000
+      internalID: -5811227598782252638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 289
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a953518f870656b0800000000000000
+      internalID: -5308046797878109791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 288
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7025d4821fe0b9b0800000000000000
+      internalID: -5066286717974798211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 287
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b9fb7a8ce32f40800000000000000
+      internalID: 5702661632710783514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 289
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e257dcda9e949dca0800000000000000
+      internalID: -5991676561247603410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275339014ee6c3a50800000000000000
+      internalID: 6502193887825835378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c345a441aa21a0800000000000000
+      internalID: -6833472168378775255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c890192d8412200800000000000000
+      internalID: 153483931520961688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3a08d7abe8990a0800000000000000
+      internalID: -6874306424583707664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d6c23a80b220750800000000000000
+      internalID: 6269620947350482226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e9fb63e5b71b40800000000000000
+      internalID: 5410993465682682277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434f01fe4a31f010800000000000000
+      internalID: 1220821084720284494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9ebd39bf5ce6eb0800000000000000
+      internalID: -4724621274756945409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644dafc30b236dd0800000000000000
+      internalID: -2494102473263987602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd99b078878880b60800000000000000
+      internalID: 7712564413115111901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 271
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c59e4047a792130800000000000000
+      internalID: 3542497220620803193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e403be56dc7d220800000000000000
+      internalID: 2510701154903543356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 271
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd5e085978eb7d0800000000000000
+      internalID: -2900732033797595168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 225
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca023e507da95340800000000000000
+      internalID: 4853100771596700365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 209
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed67658a3fb39b0800000000000000
+      internalID: -5099214248736268723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8274f3c44affded0800000000000000
+      internalID: -2386914104230776179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ccca8a740bc510800000000000000
+      internalID: 1570353819429946983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b24145d6440d20800000000000000
+      internalID: 3243795513350469414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 193
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c399eddf3d97f300800000000000000
+      internalID: 285869998992888768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8375f16184b99790800000000000000
+      internalID: -7522783234758446198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f725da7acc73cd0800000000000000
+      internalID: -2578367241106849958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460de46ad7b721bc0800000000000000
+      internalID: -3813850154838077340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a5a71f28dca5d0800000000000000
+      internalID: -3049825150864873444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7202b830f162338b0800000000000000
+      internalID: -5173749632273276889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d807104ae6d7e250800000000000000
+      internalID: 5973979732316195024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 181
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5ae0bc6b43f580800000000000000
+      internalID: -8794602717127745660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2939c385d7d7370800000000000000
+      internalID: 8321945504377443034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b145fbf67cbe150800000000000000
+      internalID: 5903031019364424448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 179
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd42ae3c9249ba340800000000000000
+      internalID: 4876153928660165852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1639e3c8019317ff0800000000000000
+      internalID: -40188178434452639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb945229a498040800000000000000
+      internalID: 4650330081788017613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffed29fe55a101110800000000000000
+      internalID: 1229511654666067711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 162
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ed4a1f337cdc530800000000000000
+      internalID: 3876973880147238552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e619f2c313ae40800000000000000
+      internalID: 5666394484285825392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4dedbba1ae8bc0800000000000000
+      internalID: -3778905278319342413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515f48ff01a771000800000000000000
+      internalID: 6608137889314069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 161
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd49a202ec9056c0800000000000000
+      internalID: -4156649961541775926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 163
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3da2ba77f1f6f0800000000000000
+      internalID: -652468364636243187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 160
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47e4d7e902871670800000000000000
+      internalID: 8509412999995647823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f4b5cc758ee180800000000000000
+      internalID: -9084176627420301295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e363e37546344160800000000000000
+      internalID: 7008786592020259813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c8497b66b7d9cd0800000000000000
+      internalID: -2549746132924986327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9554818af8ac630800000000000000
+      internalID: 3948125975468136865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 144
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30658686c07519110800000000000000
+      internalID: 1265888681070712323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 143
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f668c6b07b72360800000000000000
+      internalID: 7144880593539854082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 143
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba041c0eb99c34ea0800000000000000
+      internalID: -5889642216342601557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 147
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2456986b94c33a0800000000000000
+      internalID: -6684386698586668331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c78067a9322ae5e0800000000000000
+      internalID: -1879652263457159230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4228e21dfdc0710800000000000000
+      internalID: 1660948452114310353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3463892e24965950800000000000000
+      internalID: 6437495643358585917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f0a3300edb768b0800000000000000
+      internalID: -5158946078305153125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f989995d89ca1660800000000000000
+      internalID: 7357414550193932792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edb73244fda8ec10800000000000000
+      internalID: 2083106092253429216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5718fd7e42e55de0800000000000000
+      internalID: -1344920086951487649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 127
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848250e2e2bad2c50800000000000000
+      internalID: 6642153240270284872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5111f0744f5482160800000000000000
+      internalID: 7000922536213942549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3467d39c26707e110800000000000000
+      internalID: 1290007939129374275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5db9ef203a7e120800000000000000
+      internalID: 2443100556128671186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf82e521c001b21c0800000000000000
+      internalID: -4527507356357089029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126835024597a6350800000000000000
+      internalID: 6010750054905906721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2914022793a1af0800000000000000
+      internalID: -424964052502867294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b721fc870e8c641c0800000000000000
+      internalID: -4519704309594647941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 114
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463780c75abe56b50800000000000000
+      internalID: 6585929126082278244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef3f1f1f15b3ef0800000000000000
+      internalID: -127418064861659452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44cb000e61476a0800000000000000
+      internalID: -6452507214774254417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc3993d880ff6780800000000000000
+      internalID: -8687460685718143780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379eaa03a28d640a0800000000000000
+      internalID: -6897588103554602637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582c3cfc2dc665b0800000000000000
+      internalID: -5375383512126052271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58573aae2f95cd20800000000000000
+      internalID: 3298217324891822170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33474c667e86030800000000000000
+      internalID: 3488292339967079377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c70bcc69487e5c0800000000000000
+      internalID: -4186231545403507650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a9ddfce7fb8d7e0800000000000000
+      internalID: -1740430704604505552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74658449e11804450800000000000000
+      internalID: 6070994266032199239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a8504cae84ae40800000000000000
+      internalID: 5666811101603997276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8455197ff56c83960800000000000000
+      internalID: 7582028088155919688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ee49af48a58360800000000000000
+      internalID: 7171323041753785048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38332e69e91889390800000000000000
+      internalID: -7811351035537902717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2199bd4b71c2dfa0800000000000000
+      internalID: -5777342636633779926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4342e7e0ab317d0800000000000000
+      internalID: -2948808759588932409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b6ccc3761f6170800000000000000
+      internalID: 8173776535313365130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48290e6038ff15600800000000000000
+      internalID: 455425975562310276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4513cf2c89e538f0800000000000000
+      internalID: -561285790231751345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304e86ec5aafaf920800000000000000
+      internalID: 3025005689772237827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ef42fff7e285e0800000000000000
+      internalID: -1908708205583668935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dcbc882ed5fc420800000000000000
+      internalID: 2652441933083561270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 81
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f7d89e0b061f7d0800000000000000
+      internalID: -2886419573218902263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177fe0dcfc8e7b20800000000000000
+      internalID: 3134097408161445653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46179c736269560800000000000000
+      internalID: 7320080265382028486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_child_of_gun_sprite_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4999864f39696aaf0800000000000000
+      internalID: -385455155888744044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_child_of_gun_sprite_sheet_0: 3931232517293172033
+      sp_child_of_gun_sprite_sheet_1: 2499979153532280975
+      sp_child_of_gun_sprite_sheet_10: -9048558666693959967
+      sp_child_of_gun_sprite_sheet_100: -1908708205583668935
+      sp_child_of_gun_sprite_sheet_101: 2652441933083561270
+      sp_child_of_gun_sprite_sheet_102: -2886419573218902263
+      sp_child_of_gun_sprite_sheet_103: 3134097408161445653
+      sp_child_of_gun_sprite_sheet_104: 7320080265382028486
+      sp_child_of_gun_sprite_sheet_105: -385455155888744044
+      sp_child_of_gun_sprite_sheet_11: -4110374124225896203
+      sp_child_of_gun_sprite_sheet_12: -5811227598782252638
+      sp_child_of_gun_sprite_sheet_13: -5308046797878109791
+      sp_child_of_gun_sprite_sheet_14: -5066286717974798211
+      sp_child_of_gun_sprite_sheet_15: 5702661632710783514
+      sp_child_of_gun_sprite_sheet_16: -5991676561247603410
+      sp_child_of_gun_sprite_sheet_17: 6502193887825835378
+      sp_child_of_gun_sprite_sheet_18: -6833472168378775255
+      sp_child_of_gun_sprite_sheet_19: 153483931520961688
+      sp_child_of_gun_sprite_sheet_2: -2032808152134585763
+      sp_child_of_gun_sprite_sheet_20: -6874306424583707664
+      sp_child_of_gun_sprite_sheet_21: 6269620947350482226
+      sp_child_of_gun_sprite_sheet_22: 5410993465682682277
+      sp_child_of_gun_sprite_sheet_23: 1220821084720284494
+      sp_child_of_gun_sprite_sheet_24: -4724621274756945409
+      sp_child_of_gun_sprite_sheet_25: -2494102473263987602
+      sp_child_of_gun_sprite_sheet_26: 7712564413115111901
+      sp_child_of_gun_sprite_sheet_27: 3542497220620803193
+      sp_child_of_gun_sprite_sheet_28: 2510701154903543356
+      sp_child_of_gun_sprite_sheet_29: -2900732033797595168
+      sp_child_of_gun_sprite_sheet_3: -5460622553596230155
+      sp_child_of_gun_sprite_sheet_30: 4853100771596700365
+      sp_child_of_gun_sprite_sheet_31: -5099214248736268723
+      sp_child_of_gun_sprite_sheet_32: -2386914104230776179
+      sp_child_of_gun_sprite_sheet_33: 1570353819429946983
+      sp_child_of_gun_sprite_sheet_34: 3243795513350469414
+      sp_child_of_gun_sprite_sheet_35: 285869998992888768
+      sp_child_of_gun_sprite_sheet_36: -7522783234758446198
+      sp_child_of_gun_sprite_sheet_37: -2578367241106849958
+      sp_child_of_gun_sprite_sheet_38: -3813850154838077340
+      sp_child_of_gun_sprite_sheet_39: -3049825150864873444
+      sp_child_of_gun_sprite_sheet_4: 6026749534895036887
+      sp_child_of_gun_sprite_sheet_40: -5173749632273276889
+      sp_child_of_gun_sprite_sheet_41: 5973979732316195024
+      sp_child_of_gun_sprite_sheet_42: -8794602717127745660
+      sp_child_of_gun_sprite_sheet_43: 8321945504377443034
+      sp_child_of_gun_sprite_sheet_44: 5903031019364424448
+      sp_child_of_gun_sprite_sheet_45: 4876153928660165852
+      sp_child_of_gun_sprite_sheet_46: -40188178434452639
+      sp_child_of_gun_sprite_sheet_47: 4650330081788017613
+      sp_child_of_gun_sprite_sheet_48: 1229511654666067711
+      sp_child_of_gun_sprite_sheet_49: 3876973880147238552
+      sp_child_of_gun_sprite_sheet_5: 2971380435803099121
+      sp_child_of_gun_sprite_sheet_50: 5666394484285825392
+      sp_child_of_gun_sprite_sheet_51: -3778905278319342413
+      sp_child_of_gun_sprite_sheet_52: 6608137889314069
+      sp_child_of_gun_sprite_sheet_53: -4156649961541775926
+      sp_child_of_gun_sprite_sheet_54: -652468364636243187
+      sp_child_of_gun_sprite_sheet_55: 8509412999995647823
+      sp_child_of_gun_sprite_sheet_56: -9084176627420301295
+      sp_child_of_gun_sprite_sheet_57: 7008786592020259813
+      sp_child_of_gun_sprite_sheet_58: -2549746132924986327
+      sp_child_of_gun_sprite_sheet_59: 3948125975468136865
+      sp_child_of_gun_sprite_sheet_6: -6803746221307229657
+      sp_child_of_gun_sprite_sheet_60: 1265888681070712323
+      sp_child_of_gun_sprite_sheet_61: 7144880593539854082
+      sp_child_of_gun_sprite_sheet_62: -5889642216342601557
+      sp_child_of_gun_sprite_sheet_63: -6684386698586668331
+      sp_child_of_gun_sprite_sheet_64: -1879652263457159230
+      sp_child_of_gun_sprite_sheet_65: 1660948452114310353
+      sp_child_of_gun_sprite_sheet_66: 6437495643358585917
+      sp_child_of_gun_sprite_sheet_67: -5158946078305153125
+      sp_child_of_gun_sprite_sheet_68: 7357414550193932792
+      sp_child_of_gun_sprite_sheet_69: 2083106092253429216
+      sp_child_of_gun_sprite_sheet_7: 8528183948392278352
+      sp_child_of_gun_sprite_sheet_70: -1344920086951487649
+      sp_child_of_gun_sprite_sheet_71: 6642153240270284872
+      sp_child_of_gun_sprite_sheet_72: 7000922536213942549
+      sp_child_of_gun_sprite_sheet_73: 1290007939129374275
+      sp_child_of_gun_sprite_sheet_74: 2443100556128671186
+      sp_child_of_gun_sprite_sheet_75: -4527507356357089029
+      sp_child_of_gun_sprite_sheet_76: 6010750054905906721
+      sp_child_of_gun_sprite_sheet_77: -424964052502867294
+      sp_child_of_gun_sprite_sheet_78: -4519704309594647941
+      sp_child_of_gun_sprite_sheet_79: 6585929126082278244
+      sp_child_of_gun_sprite_sheet_8: 3288622616695584109
+      sp_child_of_gun_sprite_sheet_80: -127418064861659452
+      sp_child_of_gun_sprite_sheet_81: -6452507214774254417
+      sp_child_of_gun_sprite_sheet_82: -8687460685718143780
+      sp_child_of_gun_sprite_sheet_83: -6897588103554602637
+      sp_child_of_gun_sprite_sheet_84: -5375383512126052271
+      sp_child_of_gun_sprite_sheet_85: 3298217324891822170
+      sp_child_of_gun_sprite_sheet_86: 3488292339967079377
+      sp_child_of_gun_sprite_sheet_87: -4186231545403507650
+      sp_child_of_gun_sprite_sheet_88: -1740430704604505552
+      sp_child_of_gun_sprite_sheet_89: 6070994266032199239
+      sp_child_of_gun_sprite_sheet_9: -1030210210639602211
+      sp_child_of_gun_sprite_sheet_90: 5666811101603997276
+      sp_child_of_gun_sprite_sheet_91: 7582028088155919688
+      sp_child_of_gun_sprite_sheet_92: 7171323041753785048
+      sp_child_of_gun_sprite_sheet_93: -7811351035537902717
+      sp_child_of_gun_sprite_sheet_94: -5777342636633779926
+      sp_child_of_gun_sprite_sheet_95: -2948808759588932409
+      sp_child_of_gun_sprite_sheet_96: 8173776535313365130
+      sp_child_of_gun_sprite_sheet_97: 455425975562310276
+      sp_child_of_gun_sprite_sheet_98: -561285790231751345
+      sp_child_of_gun_sprite_sheet_99: 3025005689772237827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
