@@ -4,17 +4,22 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Wall
   - Enemy
+  - RoomLayer
+  - TurtorialLaser
+  - StartLine
+  - Wall
   - Bullet
+  - EnemyBullet
+  - 'BossBullet '
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - RoomLayer
   - Water
   - UI
-  - 
+  - Wall
   - 
   - 
   - 
